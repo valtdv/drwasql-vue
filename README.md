@@ -1,24 +1,10 @@
-# drawsql-vue
+# DrawSQL clone
 
-## Project setup
-```
-yarn install
-```
+This project is a clone of [DrawSQL](https://drawsql.app/), a tool designed to create and visualize database entity relationship diagrams. 
 
-### Compiles and hot-reloads for development
+This project was created using Vue3 for the sole purpose of learning the basis of this framework. For this reason, this project doesn't have backend or an integration of any kind of database and will remain this way.
+
+To compile this project use the following command
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
